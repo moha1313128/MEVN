@@ -1,0 +1,15 @@
+{
+  "name": "mevn",
+  "version": "1.0.0",
+  "description": "VueJS - ExpressJS - MongoDB - NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "dev": "nodemon server/app.js"
+  },
+  "author": "Mohammed Ettayby",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^4.6.1"
+  }
+}
