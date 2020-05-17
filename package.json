@@ -9,7 +9,5 @@
   },
   "author": "Mohammed Ettayby",
   "license": "MIT",
-  "dependencies": {
-    "npm": "^4.6.1"
-  }
+  "dependencies": {}
 }
